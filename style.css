@@ -2,14 +2,18 @@
   text-align: center;
 }
 
-.main-recipe-container{
+.main-container {
+  display: flex;
+  justify-content: center;
+}
+
+.main-recipe-container {
   display: inline-block;
   padding: 40px;
 }
 
-.img-title{
+.img-title {
   text-align: center;
-  text-decoration: none;
   padding: 12px;
   margin: auto;
   border-radius: 24px 24px 0px 0px;
