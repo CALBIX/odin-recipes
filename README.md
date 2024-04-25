@@ -1,3 +1,3 @@
 # odin-recipes
 
-a Project where I create a recipe website using HTML
+a Project where I create a recipe website
